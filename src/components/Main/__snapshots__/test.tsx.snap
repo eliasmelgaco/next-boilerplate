@@ -60,7 +60,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h2
     class="c3"
   >
-    TypeScript, ReactJS, NextJS and Styled Components
+    TypeScript, ReactJS, NextJS e Styled Components
   </h2>
   <img
     alt="Um desenvolvedor de frente para uma tela com código."
@@ -68,4 +68,4 @@ exports[`<Main /> should render the heading 1`] = `
     src="/img/hero-illustration.svg"
   />
 </main>
-`
+`;
